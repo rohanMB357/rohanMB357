@@ -12,13 +12,13 @@
 - 🚗 [Car Repair Management System](https://github.com/rohanMB357/car)  
   → Full-stack MERN application for managing repair services, bookings, and customers  
 
-- 🌐 [EDU Flow](https://github.com/rohanMB357/cse370-project-)  
+- 🌐 [EDU Flow](https://github.com/rohanMB357/edu-flow)  
   → Course management system with assignments, quizzes, and real-time communication  
 
-- 🌐 Networking Projects (CSE421)  
+- 🌐 [Networking Projects](https://github.com/rohanMB357/cse421)  
   → Client-server systems, socket programming, and Cisco Packet Tracer simulations  
 
-- 🤖 Neural Network Project (CSE425)  
+- 🤖 [Neural Network Project](https://github.com/rohanMB357/cse425)  
   → Implementation of neural networks for classification and prediction tasks  
 
 ---
@@ -32,12 +32,15 @@
 ---
 
 ## 📊 GitHub Stats
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanMB357&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanMB357&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanMB357&layout=compact&theme=tokyonight)
 
 ---
-
 ## 📫 Contact
-- Email: rohan.bahorder@email.com  
-- GitHub: https://github.com/rohanMB357
+- 📧 Primary: rohan.bahorder@email.com  
+- 📧 Secondary: ahmedmudassir200121@gmail.com  
+- 📞 Phone: +880 1854-854721  
+- 💬 WhatsApp: https://wa.me/8801854854721  
+- 💼 LinkedIn: https://www.linkedin.com/in/rohan-bahorder-541876297/  
+- 🌐 GitHub: https://github.com/rohanMB357
