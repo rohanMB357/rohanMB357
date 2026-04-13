@@ -7,9 +7,12 @@
 
 ## 🚀 Projects
 - 🔐 Post-Quantum Cryptography Research  
-- 🚗 Car Repair Management System (MERN Stack, HTML, CSS, JavaScript)  
-- 🌐 EDU Flow (Course Management System)  
-- 🌐 Networking Projects (Client-Server, Socket Programming, Packet Tracer)
+- 🚗 [Car Repair Management System](https://github.com/rohanMB357/car)  
+  → Full-stack MERN app for managing repair services and customers  
+- 🌐 [EDU Flow](https://github.com/rohanMB357/cse370-project-)  
+  → Course management system with assignments, quizzes, and chat  
+- 🌐 Networking Projects  
+  → Client-server apps, socket programming, Packet Tracer labs  
 
 ---
 
@@ -21,6 +24,13 @@
 
 ---
 
+## 📊 GitHub Stats
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanMB357&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanMB357&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Contact
-- Email: ahmedmudassir200121@gmail.com 
+- Email: your_email_here  
 - GitHub: https://github.com/rohanMB357
