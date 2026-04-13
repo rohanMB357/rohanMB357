@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**rohanMB357/rohanMB357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at BRAC University  
+💻 Interested in Cybersecurity, AI & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔐 Post-Quantum Cryptography Research  
+- 🚗 Car Repair Management System (MERN Stack, HTML, CSS, JavaScript)  
+- 🌐 EDU Flow (Course Management System)  
+- 🌐 Networking Projects (Client-Server, Socket Programming, Packet Tracer)
+
+---
+
+## 🛠️ Skills
+- **Languages:** Python, PHP, JavaScript  
+- **Tools:** Git, MySQL, Linux  
+- **Technologies:** MERN Stack, Networking  
+- **Interests:** Cybersecurity, Networking, AI  
+
+---
+
+## 📫 Contact
+- Email: ahmedmudassir200121@gmail.com 
+- GitHub: https://github.com/rohanMB357
