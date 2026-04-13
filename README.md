@@ -7,12 +7,19 @@
 
 ## 🚀 Projects
 - 🔐 Post-Quantum Cryptography Research  
+  → Exploring quantum-resistant cryptographic algorithms and secure systems  
+
 - 🚗 [Car Repair Management System](https://github.com/rohanMB357/car)  
-  → Full-stack MERN app for managing repair services and customers  
+  → Full-stack MERN application for managing repair services, bookings, and customers  
+
 - 🌐 [EDU Flow](https://github.com/rohanMB357/cse370-project-)  
-  → Course management system with assignments, quizzes, and chat  
-- 🌐 Networking Projects  
-  → Client-server apps, socket programming, Packet Tracer labs  
+  → Course management system with assignments, quizzes, and real-time communication  
+
+- 🌐 Networking Projects (CSE421)  
+  → Client-server systems, socket programming, and Cisco Packet Tracer simulations  
+
+- 🤖 Neural Network Project (CSE425)  
+  → Implementation of neural networks for classification and prediction tasks  
 
 ---
 
@@ -32,5 +39,5 @@
 ---
 
 ## 📫 Contact
-- Email: your_email_here  
+- Email: rohan.bahorder@email.com  
 - GitHub: https://github.com/rohanMB357
